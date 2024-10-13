@@ -23,7 +23,7 @@ Este emocionante proyecto es un desafío para crear una aplicación Vue.js que t
 
 1. **Clona el repositorio:**
    ```
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/FideoKojima/TemplatesRenderingVUE.git
    ```
 
 2. **Instala las dependencias:**
