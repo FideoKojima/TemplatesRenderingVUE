@@ -1,35 +1,60 @@
-# desafio-templatesRendering
+# Desafío de Templates y Rendering en Vue
+=============================================
 
-Desafío Evaluado de renderizado de elementos, binding de variables para manipulación del DOM, y templates en Vue.js para módulo 6 de Bootcamp Front-end Trainee Desafío Latam.
+**¡Bienvenido!**
 
-## Recommended IDE Setup
+Este proyecto es un desafío para crear una aplicación Vue.js que modifique los estilos de una figura en función de los inputs de un formulario.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+**Ícono del Proyecto**
+------------------------
 
-## Customize configuration
+![Ícono del Proyecto](https://img.icons8.com/color/48/000000/vue-js.png)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+**Descripción del Proyecto**
+---------------------------
 
-## Project Setup
+Este proyecto utiliza Vue.js para crear una aplicación que modifique los estilos de una figura en función de los inputs de un formulario. La aplicación incluye un formulario con cuatro inputs:
 
-```sh
-npm install
-```
+* Un input de texto para ingresar el color
+* Un input de número para ingresar el tamaño
+* Un select para elegir la forma (círculo, cuadrado o triángulo)
+* Un checkbox para mostrar u ocultar la figura
 
-### Compile and Hot-Reload for Development
+La figura se crea utilizando un div con estilos dinámicos que se modifican en función de los valores ingresados en los inputs.
 
-```sh
-npm run dev
-```
+**Características del Proyecto**
+-------------------------------
 
-### Compile and Minify for Production
+* Utiliza Vue.js para crear la aplicación
+* Incluye un formulario con cuatro inputs
+* La figura se crea utilizando un div con estilos dinámicos
+* La figura se muestra u oculta según el estado del checkbox
 
-```sh
-npm run build
-```
+**Instalación y Ejecución**
+---------------------------
 
-### Lint with [ESLint](https://eslint.org/)
+1. Clona el repositorio utilizando el comando `git clone`
+2. Instala las dependencias utilizando el comando `npm install`
+3. Ejecuta la aplicación utilizando el comando `npm run serve`
 
-```sh
-npm run lint
-```
+**Capturas de Pantalla**
+-------------------------
+
+![Captura de Pantalla 1](https://example.com/captura1.png)
+![Captura de Pantalla 2](https://example.com/captura2.png)
+
+**Licencia**
+------------
+
+Este proyecto está bajo la licencia MIT.
+
+**Créditos**
+------------
+
+* [Vue.js](https://vuejs.org/)
+* [Ícono del Proyecto](https://img.icons8.com/color/48/000000/vue-js.png)
+
+**Contribuciones**
+-----------------
+
+Si deseas contribuir a este proyecto, por favor, crea un fork del repositorio y envía una solicitud de pull.
