@@ -3,9 +3,11 @@
 
 **¡Bienvenido!**
 
+[Enlace Directo](https://templates-rendering-vue-two.vercel.app/)
+
 Este proyecto es un desafío para crear una aplicación Vue.js que modifique los estilos de una figura en función de los inputs de un formulario.
 
-**Ícono del Proyecto**
+**Framework Utlizado**
 ------------------------
 
 ![Ícono del Proyecto](https://img.icons8.com/color/48/000000/vue-js.png)
@@ -36,23 +38,6 @@ La figura se crea utilizando un div con estilos dinámicos que se modifican en f
 1. Clona el repositorio utilizando el comando `git clone`
 2. Instala las dependencias utilizando el comando `npm install`
 3. Ejecuta la aplicación utilizando el comando `npm run serve`
-
-**Capturas de Pantalla**
--------------------------
-
-![Captura de Pantalla 1](https://example.com/captura1.png)
-![Captura de Pantalla 2](https://example.com/captura2.png)
-
-**Licencia**
-------------
-
-Este proyecto está bajo la licencia MIT.
-
-**Créditos**
-------------
-
-* [Vue.js](https://vuejs.org/)
-* [Ícono del Proyecto](https://img.icons8.com/color/48/000000/vue-js.png)
 
 **Contribuciones**
 -----------------
